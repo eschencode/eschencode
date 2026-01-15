@@ -1,9 +1,9 @@
-# [Linus Eschenbach]
+# Linus Eschenbach
 **Junior Software Developer | 42 Berlin Student** *Berlin, Germany*
 
 ---
 
-### Professional Profile
+### Profile
 Software Developer with a rigorous foundation in low-level systems and fullstack architecture through the **42 Berlin Common Core**. Experienced in transitioning complex logic into user-facing applications. Currently balancing academic excellence at 42 with practical impact in a startup environment, focusing on scalable TypeScript solutions and 3D technology.
 
 ### Technical Expertise
