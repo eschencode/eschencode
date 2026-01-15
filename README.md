@@ -1,4 +1,4 @@
-# [Your Full Name]
+# [Linus Eschenbach]
 **Junior Software Developer | 42 Berlin Student** *Berlin, Germany*
 
 ---
