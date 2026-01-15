@@ -27,7 +27,7 @@ Software Developer with a rigorous foundation in low-level systems and fullstack
 * Designed and deployed a single-page application (SPA) featuring real-time multiplayer gameplay.
 * Engineered the entire frontend architecture using TypeScript and implemented JWT authentication handeling.
 
-#### [Inception](https://github.com/eschencode//ft_inception) | 42 Berlin
+#### [Inception](https://github.com/eschencode//inception) | 42 Berlin
 *DevOps & System Administration*
 * Orchestrated a multi-container environment using Docker Compose.
 * Configured a professional-grade infrastructure featuring Nginx (TLS), MariaDB, and WordPress.
