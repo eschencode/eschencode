@@ -16,7 +16,7 @@ Software Developer with a rigorous foundation in low-level systems and fullstack
 
 ### Core Projects & Experience
 
-#### 3D Print Farm Tracker | Startup Work Experience
+#### [PrintFarmCompanion](https://github.com/eschencode/PrintFarmCompanion) | Startup Work Experience
 *Applied Fullstack Development & IoT*
 * Architecting a management dashboard for industrial 3D print Farms.
 * Implementing real-time state tracking and data visualization using TypeScript.
